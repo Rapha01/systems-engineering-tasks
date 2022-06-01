@@ -1,0 +1,8 @@
+hw0
+what
+	cloned my selfie repo to my machine
+	added print my name to begin of selfie()
+why
+problems
+	travis did not work straight away, but relogging to github did the job
+	
